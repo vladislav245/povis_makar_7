@@ -1,0 +1,7 @@
+﻿  binary_tree.cpp
+C:\Users\влад\source\repos\mak_povis_7\mak_povis_7\binary_tree.cpp(30,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\влад\source\repos\mak_povis_7\mak_povis_7\binary_tree.cpp(33,43): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+  laba_7.cpp
+  Создание кода...
+  LINK : не найден или не выполнена сборка C:\Users\влад\source\repos\mak_povis_8\Debug\mak_povis_7.exe при последней инкрементной компоновке; выполняется полная компоновка
+  mak_povis_7.vcxproj -> C:\Users\влад\source\repos\mak_povis_8\Debug\mak_povis_7.exe
